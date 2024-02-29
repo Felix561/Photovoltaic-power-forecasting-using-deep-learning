@@ -10,8 +10,8 @@ The dataset was collected from November 13, 2023, to January 12, 2024, with imag
 The scripts and further programming information for the Raspberry Pi are available in the designated folders.
 
 
-<img src="Kamerabox_bild.jpg" alt="Sample image of the weatherproof camera enclosure." style="width:35%;"></td>
-<img src="Aufbaukamerabox.jpg" alt="Inside of the weatherproof camera enclosure." style="width:35%;"></td>
+<img src="Kamerabox_bild.jpg" alt="Sample image of the weatherproof camera enclosure." style="width:35%;">
+<img src="Aufbaukamerabox.jpg" alt="Inside of the weatherproof camera enclosure." style="width:35%; transform: rotate(-90deg);">
 
 
 ### Tabelle A.1: List of used hardware components. (As of 24.02.2024)

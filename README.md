@@ -28,3 +28,10 @@ The findings suggest that the inclusion of sky images and SPM prediction values 
 
 <img src="reports/figures/Gesammte-DL-Archi.png" alt="Entire DL architecture" style="width:35%;">
 
+
+
+
+
+### Disclaimer
+
+All statements and documents in this document are not to be considered as scientifically substantiated statements and are provided without warranty or guarantee of any kind. These pieces of information are provided for informational and inspirational purposes only and should not be interpreted as authoritative statements. Any actions taken based on this information are done at your own risk. No assurance is given for the accuracy, completeness, or timeliness of the information provided. 

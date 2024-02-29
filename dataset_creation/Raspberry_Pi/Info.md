@@ -9,7 +9,24 @@ The dataset was collected from November 13, 2023, to January 12, 2024, with imag
 
 The scripts and further programming information for the Raspberry Pi are available in the designated folders.
 
-<img src="reports/figures/Kamerabox_bild.jpg" alt="Sample image of the weatherproof camera enclosure." style="width:35%;">
+<img src="Kamerabox_bild.jpg" alt="Sample image of the weatherproof camera enclosure." style="width:35%;">
+
+
+### Tabelle A.1: List of used hardware components. (As of 24.02.2024)
+
+| Components                          | Price [Euro] | Link                                                                                   |
+|-------------------------------------|--------------|----------------------------------------------------------------------------------------|
+| Arducam 12MP Mini Camera Module     | 84.99        | [Link](https://eu.robotshop.com/de/products/arducam-12mp-imx477-mini-high-quality-camera-module-raspberry-pi) |
+| Raspberry Pi 4 Model B              | 60.50        | [Link](https://www.berrybase.de/raspberry-pi-4-computer-modell-b-4gb-ram)             |
+| 8MP Fisheye Lens                    | 51.95        | [Link](https://amzn.eu/d/dibuxKc)                                                       |
+| Waterproof Dome                     | 35.00        | [Link](https://thepihut.com/products/entaniya-waterproof-case-for-raspberry-pi-camera-modules) |
+| 128GB Memory Card                   | 15.43        | [Link](https://amzn.eu/d/gxpBCjP)                                                       |
+| Heating Foil 1.5W                   | 14.99        | [Link](https://www.conrad.de/de/p/thermo-tech-polyester-heizfolie-selbstklebend-5-v-dc-5-v-ac-1-5-w-l-x-b-70-mm-x-70-mm-1216592.html) |
+| Waterproof Case                     | 14.59        | [Link](https://amzn.eu/d/cFuG2HJ)                                                       |
+| Accessories                         | 20.00        | /                                                                                      |
+| **Total**                           | **297.45**   |                                                                                         |
+
+
 
 
 #### Key Takeaways

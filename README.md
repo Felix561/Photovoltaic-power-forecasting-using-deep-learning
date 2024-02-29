@@ -7,6 +7,7 @@ This repository contains the code (and data) associated with my Bachelor's thesi
 In this thesis, a Deep Learning (DL) model was developed for short-term PV power forecasting. The model, an end-to-end CNN-MLP hybrid network, takes inputs such as sky images, PV historical data, and the prediction value from the Smart Persistence Model (SPM) to generate future power values for a 15-minute forecast period.
 
 *High-level overview of the model.*
+
 <img src="reports/figures/High_level_Überblick_Model_V4.png" alt="High-level model overview" style="width:50%;">
 
 
@@ -22,6 +23,8 @@ The DL model was trained and evaluated on the created dataset. It achieved a For
 The findings suggest that the inclusion of sky images and SPM prediction values as model inputs significantly improves prediction accuracy.
 
 #### Apendix 
+
 *Entire architecture of the Deep Learning model.*
+
 <img src="reports/figures/Gesammte-DL-Archi.png" alt="Entire DL architecture" style="width:35%;">
 

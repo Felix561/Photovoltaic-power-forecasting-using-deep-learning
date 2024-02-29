@@ -9,6 +9,9 @@ The dataset was collected from November 13, 2023, to January 12, 2024, with imag
 
 The scripts and further programming information for the Raspberry Pi are available in the designated folders.
 
+<img src="reports/figures/Kamerabox_bild.jpg" alt="Sample image of the weatherproof camera enclosure." style="width:35%;">
+
+
 #### Key Takeaways
 
 - **Challenges in Data Collection**: Unexpected technical problems, unplanned maintenance, and adverse weather conditions posed significant challenges during data collection, leading to gaps and data inconsistencies. For future work, attention should be paid to adequate measures for error prevention, both in software and hardware, such as backup system checks and storage, as well as grounding/shielding of the CSI camera cable.

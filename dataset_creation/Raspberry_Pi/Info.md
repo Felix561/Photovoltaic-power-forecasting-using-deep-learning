@@ -3,7 +3,7 @@
 To train DL models effectively, it's crucial to curate suitable data. This section outlines the creation of a dataset comprising sky images and PV power values using cost-effective software and hardware components.
 
 #### Data Collection Design
-All data were collected at the Ostbayerische Technische Hochschule (OTH) in Regensburg, utilizing the PV test facility of the Renewable Energy Technology Laboratory. Due to technical constraints, only data from polycrystalline PV panels were used. Sky images were captured using a wide-angle lens and a Sony IMX477 image sensor. A Raspberry Pi 4 with custom software controlled the image capture process.
+Sky images were captured using a wide-angle lens and a Sony IMX477 image sensor. A Raspberry Pi 4 with custom software controlled the image capture process.
 
 The dataset was collected from November 13, 2023, to January 12, 2024, with images captured every minute from 6 am to 6 pm. Power values were stored at five-minute intervals by the PV system's inverter, necessitating linear interpolation to achieve one-minute resolution for label data.
 

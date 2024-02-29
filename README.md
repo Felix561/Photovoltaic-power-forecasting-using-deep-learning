@@ -2,8 +2,9 @@
 
 This repository contains the code (and data) associated with my Bachelor's thesis on the development of a Deep-Learning model for short-term PV power forecasting. The project aims to address the challenges posed by the fluctuating availability of PV energy, particularly in the context of the planned extensive expansion of photovoltaic (PV) energy in Germany.
 
-![Exemplary Sky Image](reports/figures/202312290932.jpg)
+<img src="reports/figures/202312290932.jpg" alt="Exemplary Sky Image" style="width:25%;">
 *Exemplary sky image captured on 2023.12.29 at 09:32 AM.*
+
 
 #### Overview
 In this thesis, a Deep Learning (DL) model was developed for short-term PV power forecasting. The model, an end-to-end CNN-MLP hybrid network, takes inputs such as sky images, PV historical data, and the prediction value from the Smart Persistence Model (SPM) to generate future power values for a 15-minute forecast period.

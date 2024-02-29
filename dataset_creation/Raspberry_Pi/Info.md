@@ -2,7 +2,7 @@
 
 To train DL models effectively, it's crucial to curate suitable data. This section outlines the creation of a dataset comprising sky images and PV power values using cost-effective software and hardware components.
 
-#### Data Collection Design
+#### My Data Collection Design
 Sky images were captured using a wide-angle lens and a Sony IMX477 image sensor. A Raspberry Pi 4 with custom software controlled the image capture process.
 
 The dataset was collected from November 13, 2023, to January 12, 2024, with images captured every minute from 6 am to 6 pm. Power values were stored at five-minute intervals by the PV system's inverter, necessitating linear interpolation to achieve one-minute resolution for label data.
@@ -31,13 +31,13 @@ The scripts and further programming information for the Raspberry Pi are availab
 
 
 
-#### Key Takeaways
+#### Key Takeaways from my work
 
 - **Challenges in Data Collection**: Unexpected technical problems, unplanned maintenance, and adverse weather conditions posed significant challenges during data collection, leading to gaps and data inconsistencies. For future work, attention should be paid to adequate measures for error prevention, both in software and hardware, such as backup system checks and storage, as well as grounding/shielding of the CSI camera cable.
 - **Imbalance in Weather Conditions**: The dataset lacks balance between good and bad weather conditions, with a higher prevalence of data points representing adverse weather conditions compared to optimal conditions. In future work, emphasis should be placed on a relatively long data collection period to achieve more robust results, and attention should be given to diverse weather conditions.
 - **Problem with the collected PV Power Data**: Due to software limitations of the inverter, data could only be logged at a 5-minute frequency, which was interpolated to achieve a 1-minute resolution. However, it is not advisable for future work; it is recommended to use a power meter with a 1-minute sampling frequency!
   
-#### Data Preparation
+#### Data Preparation in my work
 
 Data preparation is a crucial step in preparing for DL model training. The goal is to remove faulty images and label data and prepare suitable inputs for the DL model.
 

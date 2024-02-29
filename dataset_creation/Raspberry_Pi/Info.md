@@ -9,12 +9,10 @@ The dataset was collected from November 13, 2023, to January 12, 2024, with imag
 
 The scripts and further programming information for the Raspberry Pi are available in the designated folders.
 
-<table>
-  <tr>
-    <td><img src="Kamerabox_bild.jpg" alt="Sample image of the weatherproof camera enclosure." style="width:35%;"></td>
-    <td><img src="Aufbaukamerabox.jpg" alt="Inside of the weatherproof camera enclosure." style="width:35%;"></td>
-  </tr>
-</table>
+
+<img src="Kamerabox_bild.jpg" alt="Sample image of the weatherproof camera enclosure." style="width:35%;"></td>
+<img src="Aufbaukamerabox.jpg" alt="Inside of the weatherproof camera enclosure." style="width:35%;"></td>
+
 
 ### Tabelle A.1: List of used hardware components. (As of 24.02.2024)
 
@@ -52,9 +50,16 @@ Data preparation is a crucial step in preparing for DL model training. The goal 
 *Note: It is hoped that these insights will contribute to the development of cost-effective sky imaging systems, thereby advancing research in the field.*
 
 
+### extra Information
+
+Whether you have generated your own dataset of sky images and PV power values or tested a forecasting model on a different dataset, it is always advisable to validate your results on multiple datasets. One recommended dataset for such validations is the SKIPP´D dataset, which can be found on [GitHub](https://github.com/yuhao-nie/Stanford-solar-forecasting-dataset.git) [2].
+
+
 ### Sources
 
 [1] Yuhao Nie, Ahmed S. Zamzam, Adam Brandt, "Resampling and data augmentation for short-term PV output prediction based on an imbalanced sky images dataset using convolutional neural networks," Solar Energy, Volume 224, 2021, Pages 341-354, ISSN 0038-092X, [DOI: 10.1016/j.solener.2021.05.095](https://doi.org/10.1016/j.solener.2021.05.095). [Link](https://www.sciencedirect.com/science/article/pii/S0038092X21004795)
+
+[2] Nie, Y., Li, X., Scott, A., Sun, Y., Venugopal, V., & Brandt, A. (2023). SKIPP’D: A SKy Images and Photovoltaic Power Generation Dataset for short-term solar forecasting. *Solar Energy*, 255, 171-179.
 
 
 ### Disclaimer

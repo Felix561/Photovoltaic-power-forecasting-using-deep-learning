@@ -22,7 +22,7 @@ The DL model was trained and evaluated on the created dataset. It achieved a For
 #### Conclusion
 The findings suggest that the inclusion of sky images and SPM prediction values as model inputs significantly improves prediction accuracy.
 
-#### Apendix 
+#### Appendix
 
 *Entire architecture of the Deep Learning model.*
 

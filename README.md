@@ -20,7 +20,8 @@ The DL model was trained and evaluated on the created dataset. It achieved a For
 *Disclaimer: For more detailed information about the achieved FS and evaluation metrics, please refer to the document provided in the Document Folder section.*
 
 #### Conclusion
-The findings suggest that the inclusion of sky images and SPM prediction values as model inputs significantly improves prediction accuracy.
+The findings suggest that the proposed DL forecast model is capable of predicting future PV power quite accurately. It concludes that the inclusion of sky images and SPM prediction values, as well as PV history terms as model inputs, significantly improves prediction accuracy.
+
 
 #### Appendix
 

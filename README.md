@@ -1,6 +1,6 @@
 ### Photovoltaic Short-term Power Forecasting using Deep Learning
 
-This repository contains the code (and data) associated with my Bachelor's thesis on the development of a Deep-Learning model for short-term PV power forecasting. The project aims to address the challenges posed by the fluctuating availability of PV energy, particularly in the context of the planned extensive expansion of photovoltaic (PV) energy in Germany.
+This repository contains the code associated with my Bachelor's thesis on the development of a Deep-Learning model for short-term PV power forecasting. The project aims to address the challenges posed by the fluctuating availability of PV energy, particularly in the context of the planned extensive expansion of photovoltaic (PV) energy in Germany.
 
 
 #### Overview

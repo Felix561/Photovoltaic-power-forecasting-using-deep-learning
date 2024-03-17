@@ -14,7 +14,7 @@ The scripts and further programming information for the Raspberry Pi are availab
 <img src="Aufbaukamerabox.jpg" alt="Inside of the weatherproof camera enclosure." style="width:35%; transform: rotate(-90deg);">
 
 
-### Tabelle A.1: List of used hardware components. (As of 24.02.2024)
+### List of used hardware components. (As of 24.02.2024)
 
 | Components                          | Price [Euro] | Link                                                                                   |
 |-------------------------------------|--------------|----------------------------------------------------------------------------------------|

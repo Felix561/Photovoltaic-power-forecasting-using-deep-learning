@@ -1,0 +1,10 @@
+[Unit]
+Description=Timer to run my BUG FIX skript.
+
+[Timer]
+OnCalendar=*-*-* *:*:35
+Unit=BUG_FIX.service
+AccuracySec=1s
+
+[Install]
+WantedBy=timers.target

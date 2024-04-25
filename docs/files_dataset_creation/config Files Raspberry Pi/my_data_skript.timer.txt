@@ -1,0 +1,10 @@
+[Unit]
+Description=Timer to run my data collecting skript.
+
+[Timer]
+OnCalender=*-*-* *:*:00
+Unit=my_data_skript.service
+AccuracySec=1s
+
+[Install]
+WantedBy=timers.target

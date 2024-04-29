@@ -27,7 +27,7 @@ The findings suggest that the proposed DL forecast model is capable of predictin
 
 *Entire architecture of the Deep Learning model.*
 
-<img src="reports/figures/Gesammte-DL-Archi.png" alt="Entire DL architecture" style="width:35%;">
+<img src="reports/figures/model_plot.png" alt="Entire DL architecture" style="width:35%;">
 
 
 

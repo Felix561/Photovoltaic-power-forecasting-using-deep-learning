@@ -17,8 +17,8 @@ A new hybrid Convolutional Neural Network (CNN) and Multi-Layer Perceptron (MLP)
 
 The Deep Learning model was trained and evaluated on both the created dataset and the public SKIPP'D Benchmark dataset. Key evaluation metrics included the Root Mean Squared Error (RMSE) and the Forecast Skill (FS).
 
-- **Custom Dataset:** The DL model achieved a Forecast Skill (FS) of 58.9% compared to the SPM benchmark model. This significant improvement highlights the model's capability to accurately predict PV power by effectively integrating sky images and historical PV data.
-- **SKIPP'D Benchmark Dataset:** On the public SKIPP'D Benchmark dataset, the model achieved a Forecast Skill (FS) of 24.2% compared to the SPM benchmark model. This result demonstrates the model's robustness and generalization ability across different datasets.
+- **Custom Dataset:** The DL model achieved a Forecast Skill (FS) of 58.9% compared to the SPM benchmark model. 
+- **SKIPP'D Benchmark Dataset:** On the public SKIPP'D Benchmark dataset, the model achieved a Forecast Skill (FS) of 24.2% compared to the SPM benchmark model. 
 
 ### Comparison with Related Literature
 The results obtained from the DL model were compared with those from related studies. The model's performance demonstrated improvements in the measured Forecast Skill (FS). Models in the literature are often considered "state of the art" in PV power forecasting with FS values ranging from 10-20%.

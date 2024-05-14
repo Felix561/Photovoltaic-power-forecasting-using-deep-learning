@@ -7,7 +7,7 @@ In this thesis, a Deep Learning (DL) model was developed for short-term PV power
 
 *High-level overview of the model:*
 
-![High-level model overview](/assets/images/high_level_model.png)
+<img src="reports/figures/High_level_Überblick_Model_V4.png" alt="High-level model overview" style="width:50%;">
 
 ## Dataset Creation
 A dataset comprising sky images and PV power values was created using cost-effective software and hardware components. Sky images were captured using a Raspberry Pi equipped with a wide-angle camera at the Ostbayerische Technische Hochschule Regensburg, resulting in acceptable data quality at a fraction of the cost of commercial sky imaging systems.
@@ -30,7 +30,7 @@ The findings suggest that the proposed Deep Learning forecast model is capable o
 
 *Entire architecture of the Deep Learning model:*
 
-![Entire DL architecture](/assets/images/model_plot.png)
+<img src="reports/figures/model_plot.png" alt="Entire DL architecture" style="width:35%;">
 
 ## Disclaimer
 
